@@ -22,4 +22,6 @@ def calculator():
         except ValueError: print("Error! Please enter numbers.")
 
 if __name__ == "__main__": calculator()
-thnk you !!
+
+
+thank you !!
